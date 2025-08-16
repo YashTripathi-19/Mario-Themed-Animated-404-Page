@@ -1,5 +1,5 @@
 # Mario-Themed-Animated-404-Page
-A fun Mario-themed 404 page made with HTML &amp; CSS. Featuring a retro-style animation that turns a dull “Page Not Found” into a nostalgic and playful experience.
+A fun Mario-themed 404 page made with HTML &amp; CSS along with a bit of js. Featuring a retro-style animation that turns a dull “Page Not Found” into a nostalgic and playful experience.
 
 ---
 
@@ -20,6 +20,7 @@ A fun Mario-themed 404 page made with HTML &amp; CSS. Featuring a retro-style an
 ## 📂 Project Structure
 index.html # Main HTML file
 style.css # Styling & Mario-themed animation
+and an additional JS file 
 
 ---
 
