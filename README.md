@@ -2,6 +2,8 @@
 A fun Mario-themed 404 page made with HTML &amp; CSS along with a bit of js. Featuring a retro-style animation that turns a dull “Page Not Found” into a nostalgic and playful experience.
 
 ---
+Play it live on : [(https://mario-themed-animated-404-page.vercel.app)](https://mario-themed-animated-404-page.vercel.app)
+
 
 ## 🌟 Features
 - 🎥 Mario-styled animated background (classic game vibes)  
